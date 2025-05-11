@@ -1,0 +1,15 @@
+{
+	"geode": "4.4.0",
+	"gd": {
+		"android": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "hbg1010.robtopfpsviewermobile",
+	"name": "robtopFPSViewerMobile",
+	"version": "v1.0.0",
+	"developer": "Hbg1010",
+	"description": "Adds in graphics settings from desktop",
+	"dependencies": {
+		"weebify.high-graphics-android": ">=v1.1.2"
+	}
+}
